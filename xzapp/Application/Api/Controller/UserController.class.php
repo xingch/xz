@@ -15,6 +15,13 @@ class UserController extends Controller {
 	 * 注册 
 	 */
     public function register(){
-		$this->show('这里是注册');
+		echo 333;
+    }
+    
+    /**
+     * 登录
+     */
+    public function login(){
+    	
     }
 }
