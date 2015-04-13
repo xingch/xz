@@ -45,3 +45,4 @@ Temporary Items
 *.project
 .settings/org.eclipse.core.resources.prefs
 *.prefs
+/xzapp/Application/Runtime

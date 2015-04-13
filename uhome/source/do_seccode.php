@@ -43,7 +43,6 @@ if(function_exists('imagecreate') && function_exists('imagecolorset') && functio
 		imagejpeg($im, '', 100);
 	}
 	imagedestroy($im);
-	
 } else {
 	
 	$numbers = array
