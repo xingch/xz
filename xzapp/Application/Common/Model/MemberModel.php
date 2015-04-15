@@ -8,4 +8,12 @@ namespace Common\Model;
 use Common\Common\CommonModel;
 class MemberModel extends CommonModel{
 	
+	public function __construct(){
+		
+	}
+	
+	public function insert(){
+		
+	}
+	
 }

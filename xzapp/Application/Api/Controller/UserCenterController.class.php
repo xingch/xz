@@ -1,12 +1,11 @@
 <?php
 /**
- * 用户控制器
+ * 用户中心控制器
  * @author Jack.W
- * @version 2015-04-07 
+ * @version 2015-04-14
  */
 namespace Api\Controller;
-use Think\Controller;
-class UserController extends Controller {
+class UserCenterController extends \UCenterController {
 	public function __construct(){
 		
 	}
